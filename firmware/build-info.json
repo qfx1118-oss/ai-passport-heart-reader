@@ -1,0 +1,10 @@
+{
+  "firmware_sha256": "abb452b571f89ed1007026bc32d2886ecc2c4023e3473e4a153efc362f177825",
+  "elf_sha256": "f3bfa18c7774f1f09a91583af28af6b322766eefe49f05f376426a70019e164e",
+  "variant": "QUOTES_NO_BUILTIN=1",
+  "build": "PASS",
+  "host_tests": "PASS: repository gate and installer guards",
+  "private_data_audit": "PASS",
+  "device_test": "NOT RUN for this exact share build",
+  "upstream": "https://github.com/FoloToy/ai-passport"
+}

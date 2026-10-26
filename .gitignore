@@ -1,0 +1,12 @@
+.venv/
+private/
+build/
+__pycache__/
+.DS_Store
+*.bin
+*.elf
+*.map
+source/managed_components/
+source/sdkconfig
+source/sdkconfig.old
+source/build/
